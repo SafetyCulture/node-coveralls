@@ -1,5 +1,5 @@
 {
-  "name": "coveralls",
+  "name": "@safetyculture/coveralls",
   "description": "takes json-cov output into stdin and POSTs to coveralls.io",
   "keywords": [
     "coverage",
